@@ -9,9 +9,8 @@ function MedicalTreatments(props){
       <div>Catagory: {props.catagory}</div>
       <div>Name: {props.name}</div>
       <div>Start Date: {props.startDate}</div>
-  
       
-      </div>
+    </div>
 
   );
 }
