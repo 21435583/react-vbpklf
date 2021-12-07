@@ -6,8 +6,8 @@ import App from './App';
 import MedicalTreatments from './MedicalTreatments';
 
 ReactDOM.render(
-  <App/>,
-  document.getElementById('/root/')
+  <App />,
+  document.getElementById('root')
 );
 
 const App = ()=> {
